@@ -1,2 +1,2 @@
 #!/bin/bash
-grep KEY=printenv
+KEY=printenv | grep 
