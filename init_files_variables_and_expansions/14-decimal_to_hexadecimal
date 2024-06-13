@@ -1,2 +1,2 @@
 #!/bin/bash
-printf $DECIMAL | echo $(( 2#$BINARY ))
+printf $DECIMAL | echo $(( 2#$DECIMAL ))
