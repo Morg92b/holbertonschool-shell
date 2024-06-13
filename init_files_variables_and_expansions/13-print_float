@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$NUM %d"
+printf "$NUM %./2f"
