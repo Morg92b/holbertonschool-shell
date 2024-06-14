@@ -1,6 +1,6 @@
-This is a project 5 For holbertonschool \n
-Exo 0 : pwd \n
-Exo 1 : ls  \n
+This is a project 5 For holbertonschool 
+Exo 0 : pwd 
+Exo 1 : ls  
 Exo 2 : cd
 Exo 3 : ls -l
 Exo 4 : ls -la
